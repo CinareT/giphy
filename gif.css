@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 2vw;
+    background-color: beige;
+}
+.yazi{
+    text-align: center;
+    
+}
